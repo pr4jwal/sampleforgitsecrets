@@ -1,0 +1,2 @@
+# sampleforgitsecrets
+sample
